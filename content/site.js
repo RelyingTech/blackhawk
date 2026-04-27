@@ -10,10 +10,10 @@ export const siteSettings = {
 
 export const brandAssets = {
   horizontal: {
-    src: "/brand/blackhawk-logo-horizontal.svg",
+    src: "/brand/hawk.png",
   },
   shield: {
-    src: "/brand/blackhawk-logo-square.svg",
+    src: "/brand/hawk.png",
   },
 };
 

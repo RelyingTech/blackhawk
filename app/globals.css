@@ -227,7 +227,6 @@ main {
 .page-hero-copy h1,
 .hero-copy h1,
 .story-block h3,
-.page-hero-list h3,
 .signal-card h3,
 .step-card h3,
 .info-card h3,
@@ -299,8 +298,7 @@ main {
   background: rgba(101, 19, 38, 0.18);
 }
 
-.hero-section,
-.page-hero {
+.hero-section {
   display: grid;
   grid-template-columns: minmax(0, 1.06fr) minmax(320px, 0.94fr);
   gap: 2.4rem;
@@ -337,8 +335,7 @@ main {
   overflow: hidden;
 }
 
-.hero-panel::before,
-.page-hero-panel::before {
+.hero-panel::before {
   content: "";
   position: absolute;
   inset: 16px;
@@ -346,8 +343,7 @@ main {
   border: 1px solid rgba(241, 209, 124, 0.15);
 }
 
-.hero-panel-glow,
-.page-hero-glow {
+.hero-panel-glow {
   position: absolute;
   top: 14%;
   left: 50%;
@@ -423,7 +419,12 @@ main {
 }
 
 .page-hero {
+  display: block;
   padding: 4.4rem 0 0;
+}
+
+.page-hero-copy {
+  max-width: 760px;
 }
 
 .page-hero-copy p {
@@ -431,32 +432,6 @@ main {
   margin: 1.1rem 0 0;
 }
 
-.page-hero-panel {
-  position: relative;
-  min-height: 520px;
-  padding: 1.8rem;
-  border-radius: var(--radius-xl);
-  overflow: hidden;
-}
-
-.page-hero-panel > * {
-  position: relative;
-  z-index: 1;
-}
-
-.page-hero-panel-stack {
-  display: grid;
-  gap: 1rem;
-  align-content: start;
-}
-
-.page-hero-list {
-  display: grid;
-  gap: 0.85rem;
-  margin-top: 1rem;
-}
-
-.page-hero-list article,
 .field-card {
   padding: 1rem 1.05rem;
   border: 1px solid rgba(255, 255, 255, 0.08);
@@ -464,7 +439,6 @@ main {
   background: rgba(255, 255, 255, 0.04);
 }
 
-.page-hero-list p,
 .field-card p {
   margin: 0.35rem 0 0;
 }
@@ -771,7 +745,6 @@ main {
 
 @media (max-width: 1080px) {
   .hero-section,
-  .page-hero,
   .split-layout,
   .story-layout,
   .contact-layout {
@@ -864,8 +837,7 @@ main {
     font-size: clamp(2.45rem, 15vw, 4rem);
   }
 
-  .hero-panel,
-  .page-hero-panel {
+  .hero-panel {
     min-height: auto;
     padding: 1.3rem;
   }
