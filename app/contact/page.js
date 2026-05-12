@@ -6,7 +6,7 @@ import { contactContent } from "@/content/contact";
 export const metadata = {
   title: "Contact | BlackHawk Ventures",
   description:
-    "Use the BlackHawk Ventures contact form to discuss development opportunities, partnerships, and future ventures.",
+    "Use the BlackHawk Ventures Contact Form to discuss Development Opportunities, Partnerships and Future Ventures.",
 };
 
 export default function ContactPage() {

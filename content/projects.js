@@ -1,115 +1,115 @@
 export const projectsContent = {
   hero: {
     eyebrow: "Projects",
-    title: "A portfolio framework ready for live developments.",
+    title: "A Portfolio Framework Ready for Live Developments.",
     description:
-      "This projects layer is structured so BlackHawk Ventures can publish live developments, planning work, and pipeline opportunities as they are announced.",
+      "This Projects Layer is Structured so Black Hawk Ventures can Publish Live Developments, Planning Work and Pipeline Opportunities as they are Announced.",
     highlights: [
       {
         label: "Purpose",
-        title: "CMS-ready publishing",
+        title: "CMS-Ready Publishing",
         description:
-          "Project cards, fields, and layouts are structured for future live entries rather than one-off static blocks.",
+          "Project Cards, Fields and Layouts are Structured for Future Live Entries rather than Static Blocks.",
       },
       {
         label: "Use",
-        title: "Development and pipeline visibility",
+        title: "Development and Pipeline Visibility",
         description:
-          "The format works for launched projects, current planning work, and future opportunity showcases.",
+          "The Format works for Launched Projects, Current Planning Work and Future Opportunity Showcases.",
       },
       {
         label: "Tone",
-        title: "Premium presentation",
+        title: "Premium Presentation",
         description:
-          "Project storytelling is designed to feel high-value and brand-consistent across categories.",
+          "Project Storytelling is designed to feel High-Value and Brand-Consistent across Categories.",
       },
     ],
   },
   framework: {
     eyebrow: "Portfolio Layer",
-    title: "Built to publish real projects when you are ready.",
+    title: "Built to Publish Real Projects When You Are Ready.",
     description:
-      "Instead of inventing live developments, the structure now gives BlackHawk Ventures a clean project publishing system that can hold actual names, stages, locations, descriptions, and media when your portfolio is ready to be announced.",
+      "Instead of Inventing Live Developments, the Structure now gives Black Hawk Ventures a Clean Project Publishing System that can hold Actual Names, Stages, Locations, Descriptions and Media when your Portfolio is ready to be Announced.",
   },
   categories: {
     eyebrow: "Project Categories",
-    title: "Representative development tracks under the BlackHawk umbrella.",
+    title: "Representative Development Tracks Under the Black Hawk Umbrella.",
     description:
-      "These categories define the kinds of development work the portfolio layer can carry now and expand with later.",
+      "These Categories define kind of Development Work the Portfolio Layer can Carry Now and Expand with Later.",
     items: [
       {
-        label: "Portfolio category",
-        title: "Residential communities",
+        label: "Portfolio Category",
+        title: "Residential Communities",
         description:
-          "Ideal for land development, phased communities, amenity-led planning, and long-horizon residential growth.",
-        tags: ["Phased planning", "Community assets", "Launch-ready structure"],
+          "Ideal for Land Development, Phased Communities, Amenity-Led Planning and Long-Horizon Residential Growth.",
+        tags: ["Phased planning", "Community Assets", "Launch-ready Structure"],
       },
       {
-        label: "Portfolio category",
-        title: "Mixed-use developments",
+        label: "Portfolio Category",
+        title: "Mixed-Use Developments",
         description:
-          "Designed for assets where residential, retail, and commercial logic need to be communicated together.",
-        tags: ["Mixed-use logic", "Retail integration", "Commercial narrative"],
+          "Designed for Assets where Residential, Retail and Commercial Logic need to be Communicated Together.",
+        tags: ["Mixed-use Logic", "Retail Integration", "Commercial Narrative"],
         featured: true,
       },
       {
-        label: "Portfolio category",
-        title: "Commercial districts",
+        label: "Portfolio Category",
+        title: "Commercial Districts",
         description:
-          "Suitable for town-planning, business corridors, and commercial masterplan communication.",
-        tags: ["District planning", "Commercial anchors", "Infrastructure context"],
+          "Suitable for Town-Planning, Business Corridors and Commercial Masterplan Communication.",
+        tags: ["District Planning", "Commercial Anchors", "Infrastructure Context"],
         featured: true,
       },
       {
-        label: "Portfolio category",
-        title: "Strategic infrastructure assets",
+        label: "Portfolio Category",
+        title: "Strategic Infrastructure Assets",
         description:
-          "Flexible enough to support energy-linked or cross-sector developments when BlackHawk Ventures moves into them.",
-        tags: ["Infrastructure logic", "Future venture tie-ins", "Long-range positioning"],
+          "Flexible Enough to Support Energy Linked or Cross-Sector Developments when Black Hawk Ventures moves into them.",
+        tags: ["Infrastructure Logic", "Future Venture Tie-ins", "Long-Range Positioning"],
       },
     ],
   },
   cmsFields: {
     eyebrow: "CMS Fields",
-    title: "The content structure is ready for real project data.",
+    title: "The Content Structure Is Ready for Real Project Data.",
     description:
-      "These are the kinds of fields the current project system is prepared to hold when actual developments are added.",
+      "These are the kinds of Fields the Current Project System is prepared to hold when actual Developments are Added.",
     items: [
       {
         label: "Field",
-        title: "Project name and location",
+        title: "Project Name and Location",
         description:
-          "Supports a clear identity for each asset, development, or district the company wants to present.",
+          "Supports a clear Identity for each Asset, Development or District the Company wants to Present.",
       },
       {
         label: "Field",
-        title: "Stage and timeline",
+        title: "Stage and Timeline",
         description:
-          "Useful for showing whether a project is planned, in development, launched, or expanding in phases.",
+          "Useful for showing whether a Project is Planned, In Development, Launched or Expanding in Phases.",
       },
       {
         label: "Field",
-        title: "Sector and asset type",
+        title: "Sector and Asset Type",
         description:
-          "Keeps real estate, commercial planning, and future venture-linked projects organized cleanly.",
+          "Keeps Real-Estate, Commercial Planning and Future Venture-Linked Projects Organized Cleanly.",
       },
       {
         label: "Field",
-        title: "Narrative and media",
+        title: "Narrative and Media",
         description:
-          "Ready for overview copy, renders, galleries, and future documentation without redesigning the system.",
+          "Ready for Overview Copy, Renders, Galleries and Future Documentation without Redesigning the System.",
       },
       {
         label: "Field",
-        title: "Commercial highlights",
+        title: "Commercial Highlights",
         description:
-          "Supports key details such as positioning, scale, strategic value, and distinguishing features.",
+          "Supports Key Details such as Positioning, Scale, Strategic Value and Distinguishing Features.",
       },
       {
         label: "Field",
-        title: "Contact and call to action",
+        title: "Contact and Call to Action",
         description:
-          "Makes it straightforward to connect each project to an inquiry path when the portfolio becomes public.",
+          "Makes it Straight Forward to Connect each Project to an Inquiry Path when the Portfolio becomes Public.",
       },
     ],
   },

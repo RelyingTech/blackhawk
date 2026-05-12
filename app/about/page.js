@@ -7,7 +7,7 @@ import { coreSectors } from "@/content/site";
 export const metadata = {
   title: "About | BlackHawk Ventures",
   description:
-    "Learn how BlackHawk Ventures is building a premium venture umbrella rooted in real-estate development.",
+    "Learn how BlackHawk Ventures is building a Premium Venture Umbrella rooted in Real-Estate Development.",
 };
 
 export default function AboutPage() {
@@ -68,8 +68,8 @@ export default function AboutPage() {
         <Reveal>
           <SectionHeading
             eyebrow="Sector Umbrella"
-            title="Expansion stays aligned with one BlackHawk standard."
-            description="The sectors below define the venture umbrella BlackHawk Ventures is structured to grow under a single premium identity."
+            title="Expansion Stays Aligned with One Black Hawk Standard."
+            description="The Sectors below define the Venture Umbrella BlackHawk Ventures is structured to grow under a single Premium Identity."
           />
         </Reveal>
 

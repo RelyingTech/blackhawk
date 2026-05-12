@@ -6,7 +6,7 @@ import { projectsContent } from "@/content/projects";
 export const metadata = {
   title: "Projects | BlackHawk Ventures",
   description:
-    "Explore the project structure BlackHawk Ventures can use to publish developments, portfolio categories, and live project milestones.",
+    "Explore the Project Structure BlackHawk Ventures can use to publish Developments, Portfolio Categories and Live Project Milestones.",
 };
 
 export default function ProjectsPage() {

@@ -1,78 +1,78 @@
 export const aboutContent = {
   hero: {
     eyebrow: "About BlackHawk Ventures",
-    title: "A venture umbrella shaped with a developer’s discipline.",
+    title: "A Venture Umbrella Shaped by Developer Discipline.",
     description:
-      "BlackHawk Ventures is being positioned as a premium umbrella brand where real-estate development provides the foundation for expansion into high-conviction sectors.",
+      "Black Hawk Ventures is being Positioned as a Premium Umbrella Brand where Real-Estate Development provides the Foundation for Expansion into High Conviction Sectors.",
     highlights: [
       {
         label: "Foundation",
-        title: "Real-estate led",
+        title: "Real-Estate Led",
         description:
-          "Development thinking sets the tone for how the wider group evaluates and builds opportunities.",
+          "Development thinking sets the tone for how the Wider Group evaluates and Build Opportunities.",
       },
       {
         label: "Direction",
-        title: "Umbrella growth",
+        title: "Umbrella Growth",
         description:
-          "Multiple sectors can grow under one brand without losing strategic clarity or premium positioning.",
+          "Multiple Sectors can grow under one Brand without losing Strategic Clarity or Premium Positioning.",
       },
       {
         label: "Standard",
-        title: "Long-horizon value",
+        title: "Long-Horizon Value",
         description:
-          "The goal is not volume. It is relevance, durability, and ventures that hold their stature over time.",
+          "The Goal is not Volume. It is Relevance, Durability and Ventures that hold their Stature over Time.",
       },
     ],
   },
   story: {
     eyebrow: "Who We Are",
-    title: "Built to hold more than one business line.",
+    title: "Built to Hold More Than One Business Line.",
     paragraphs: [
-      "BlackHawk Ventures starts from a real-estate mindset: land, planning, commercial logic, and assets that are expected to keep their value and presence over time.",
-      "From that base, the company is designed to grow into adjacent and high-conviction sectors where the same standards of ambition, execution, and premium positioning can apply.",
+      "Black Hawk Ventures starts from a Real-Estate Mindset: Land, Planning, Commercial Logic and Assets that are expected to keep their Value and Presence over Time.",
+      "From that Base, the Company is designed to grow into Adjacent and High-Conviction Sectors where the same Standards of Ambition, Execution and Premium Positioning can apply.",
     ],
   },
   pillars: [
     {
-      title: "Developer mindset",
+      title: "Developer Mindset",
       description:
-        "Opportunities are assessed through planning rigor, commercial logic, and long-term usefulness.",
+        "Opportunities are assessed through Rigorous Planning, Commercial Logic and Long-Term Usefulness.",
     },
     {
-      title: "Umbrella discipline",
+      title: "Umbrella Discipline",
       description:
-        "Each venture must fit the larger BlackHawk identity rather than feel disconnected from it.",
+        "Each Venture must fit the Larger Black Hawk Identity rather than feel disconnected from it.",
     },
     {
-      title: "Premium brand presence",
+      title: "Premium Brand Presence",
       description:
-        "Execution is expected to carry stature, not just function.",
+        "Execution is expected to Carry Stature not just Function.",
     },
   ],
   umbrellaModel: {
     eyebrow: "Operating Model",
-    title: "How the BlackHawk umbrella is structured to grow.",
+    title: "How the Black Hawk Umbrella Is Structured to Grow.",
     description:
-      "The model below explains how the company can expand into new sectors while keeping a clear operating center and a strong identity.",
+      "The Model below explains how the Company can expand into New Sectors while keeping a clear Operating Center and a strong Identity.",
     items: [
       {
         index: "01",
-        title: "Foundation first",
+        title: "Foundation First",
         description:
-          "Real estate remains the operating anchor and sets the quality threshold for the rest of the portfolio.",
+          "Real-Estate Remains the Operating Anchor and Sets the Quality Threshold for Rest of the Portfolio.",
       },
       {
         index: "02",
-        title: "Selective vertical entry",
+        title: "Selective Vertical Entry",
         description:
-          "New sectors are added only when conviction, relevance, and brand alignment are present.",
+          "New Sectors are Added only when Conviction, Relevance and Brand Alignment are Present.",
       },
       {
         index: "03",
-        title: "Shared brand leverage",
+        title: "Shared Brand Leverage",
         description:
-          "Each division strengthens the perception of the whole instead of splitting attention away from it.",
+          "Each Division Strengthens the Perception of the Whole instead of Splitting Attention Away from it.",
       },
     ],
   },

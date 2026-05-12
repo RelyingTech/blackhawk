@@ -1,9 +1,9 @@
 export const homeContent = {
   hero: {
     eyebrow: "Premium Venture Umbrella",
-    title: "Built on real-estate. Designed to lead across industries.",
+    title: "Built on Real-Estate. Designed to Lead across Industries.",
     description:
-      "BlackHawk Ventures develops enduring assets and expands with discipline into food, petroleum and energy, technology, and commercial town planning under one premium identity.",
+      "Black Hawk Ventures develops enduring Assets and expands with Discipline into Food, Petroleum and Energy, Technology and Commercial Town Planning under one Premium Identity.",
     primaryCta: {
       label: "Explore Ventures",
       href: "/ventures",
@@ -26,58 +26,58 @@ export const homeContent = {
         value: "Prestige, Scale, Longevity",
       },
     ],
-    panelLabel: "Brand Mark",
-    panelTitle: "One umbrella. Multiple growth engines.",
+    panelLabel: "",
+    panelTitle: "One Umbrella. Multiple Growth Engines.",
     panelDescription:
-      "The identity of BlackHawk Ventures is built to hold premium real-estate work and future venture lines under one decisive brand system.",
+      "The Identity of Black Hawk Ventures is to hold Premium Real-Estate Work and Future Venture lines under one decisive Brand System.",
   },
   intro:
-    "We build ventures with the mindset of long-horizon developers: premium positioning, disciplined growth, and ventures that can stand on their own while strengthening the BlackHawk umbrella.",
+    "We Build Ventures with the mindset of Long-Horizon Developers: positioning as Premium Disciplined Growth and Ventures that can stand on their own while Strengthening the Black Hawk Umbrella.",
   venturesPreview: {
     eyebrow: "Venture Lines",
-    title: "A premium umbrella built to move beyond one sector.",
+    title: "A Premium Umbrella Built to move beyond one Sector.",
     description:
-      "Every division is designed to extend the same BlackHawk signature: ambitious planning, premium execution, and durable market value.",
+      "Every Division is designed to extend the same Black Hawk signature: Ambitious Planning, Premium Execution and Durable Market Value.",
   },
   projectsPreview: {
     eyebrow: "Project Structure",
-    title: "Development categories ready to publish and scale.",
+    title: "Development Categories Ready to Publish and Scale.",
     description:
-      "The site is now prepared to showcase live projects, pipeline assets, and future developments through a CMS-ready structure instead of hardcoded single-use copy.",
+      "We are now prepared to showcase Live Projects, Pipeline Assets and Future Developments through a CMS-Ready Structure.",
     items: [
       {
-        label: "Portfolio category",
-        title: "Residential and mixed-use developments",
+        label: "Portfolio Category",
+        title: "Residential and Mixed use Developments",
         description:
-          "Structured to highlight communities, phases, land context, and launch timelines as projects go live.",
+          "Structured to highlight Communities, Phases, Land context and launch Timelines as Projects go Live.",
       },
       {
-        label: "Portfolio category",
-        title: "Commercial and district planning",
+        label: "Portfolio Category",
+        title: "Commercial and District Planning",
         description:
-          "Ready for masterplan narratives, infrastructure context, commercial anchors, and planning milestones.",
+          "Ready for Masterplan Narratives, Infrastructure Context, Commercial anchors and Planning Milestones.",
       },
       {
-        label: "Portfolio category",
-        title: "Future venture-backed assets",
+        label: "Portfolio Category",
+        title: "Future Venture Backed Assets",
         description:
-          "Flexible enough to publish cross-sector opportunities where development and operating ventures intersect.",
+          "Flexible enough to Publish Cross-sector opportunities where Development and Operating Ventures intersect.",
       },
     ],
   },
   strategy: {
     eyebrow: "Umbrella Strategy",
-    title: "Structured to expand without losing identity.",
+    title: "Structured to expand without losing Identity.",
     paragraphs: [
-      "BlackHawk Ventures is being shaped as a premium venture house where real estate anchors the foundation and every new vertical must strengthen the whole.",
-      "That approach creates a portfolio that grows in reach without becoming fragmented, allowing each business line to carry its own weight while reinforcing the BlackHawk name.",
+      "Black Hawk Ventures is being shaped as a Premium Venture house where Real-Estate anchors the Foundation and every new Vertical must Strengthen the whole Hawks Ecosystem.",
+      "That approach creates a Portfolio that grows in reach without becoming Fragmented, allowing each Business line to carry its own weight while Re-Enforcing the Hawk's Name.",
     ],
   },
   closingCta: {
     eyebrow: "Next Step",
-    title: "Build with a venture house designed for long-range value.",
+    title: "Build with a Venture House Designed for Long-Range Value.",
     description:
-      "Use the contact page to start a conversation around development opportunities, strategic partnerships, or future BlackHawk ventures.",
+      "Use the Contact Page to Start a Conversation around Development Opportunities, Strategic Partnerships or Future Black Hawk Ventures inclusion.",
     primaryCta: {
       label: "Open Contact Page",
       href: "/contact",

@@ -37,11 +37,12 @@ export default function HomePage() {
         <Reveal className="hero-panel panel">
           <div className="hero-panel-glow" />
           <div className="hero-panel-stack">
-            <BrandLogo variant="shield" className="shield" priority />
             <BrandLogo variant="hero" className="hero" priority />
           </div>
           <div className="hero-panel-copy">
-            <strong>{homeContent.hero.panelLabel}</strong>
+            {homeContent.hero.panelLabel ? (
+              <strong>{homeContent.hero.panelLabel}</strong>
+            ) : null}
             <h2>{homeContent.hero.panelTitle}</h2>
             <p>{homeContent.hero.panelDescription}</p>
           </div>
@@ -138,8 +139,8 @@ export default function HomePage() {
         <Reveal>
           <SectionHeading
             eyebrow="How We Build"
-            title="A disciplined route from vision to durable value."
-            description="BlackHawk Ventures approaches new ventures with the rigor of a developer and the selectivity of a long-horizon holding company."
+            title="A Disciplined Route from Vision to Durable Value."
+            description="Black Hawk approaches New Ventures with the Rigor of a Developer and the Selectivity of a Long-Horizon holding Company."
           />
         </Reveal>
 

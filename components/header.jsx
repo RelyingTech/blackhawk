@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 import BrandLogo from "@/components/brand-logo";
 import { primaryNavigation } from "@/content/site";
@@ -10,9 +10,21 @@ import { primaryNavigation } from "@/content/site";
 export default function Header() {
   const pathname = usePathname();
   const [isOpen, setIsOpen] = useState(false);
+  const [isCompact, setIsCompact] = useState(false);
+
+  useEffect(() => {
+    function handleScroll() {
+      setIsCompact(window.scrollY > 24);
+    }
+
+    handleScroll();
+    window.addEventListener("scroll", handleScroll, { passive: true });
+
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
 
   return (
-    <header className="site-header">
+    <header className={`site-header${isCompact ? " is-compact" : ""}`}>
       <div className="header-shell">
         <Link className="brand-link" href="/" aria-label="BlackHawk Ventures home">
           <BrandLogo variant="header" className="header" priority />

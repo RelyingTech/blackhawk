@@ -1,48 +1,48 @@
 export const venturesContent = {
   hero: {
     eyebrow: "Ventures",
-    title: "Five sectors. One BlackHawk standard.",
+    title: "Five Sectors. One Black Hawk Standard.",
     description:
-      "BlackHawk Ventures is designed to expand across selected sectors without diluting the brand authority created by its real-estate base.",
+      "Black Hawk Ventures is Designed to Expand across Selected Sectors without Diluting the Brand Authority created by its Real-Estate Base.",
     highlights: [
       {
         label: "Approach",
-        title: "Real-estate anchored",
+        title: "Real-Estate Anchored",
         description:
-          "The core operating mindset comes from development, planning, and long-horizon asset thinking.",
+          "The Core Operating Mindset comes from Development, Planning and Long-Horizon Asset Thinking.",
       },
       {
         label: "Scale",
-        title: "Multi-sector ambition",
+        title: "Multi-Sector Ambition",
         description:
-          "The umbrella is structured to hold ventures in sectors with strategic fit and clear growth logic.",
+          "The Umbrella is Structured to hold Ventures in Sectors with Strategic Fit and Clear Growth Logic.",
       },
       {
         label: "Outcome",
-        title: "Integrated brand weight",
+        title: "Integrated Brand Weight",
         description:
-          "Each venture line should strengthen the whole brand, not pull it in conflicting directions.",
+          "Each Venture Line should Strengthen the Whole Brand, not Pull it in Conflicting Directions.",
       },
     ],
   },
   matrix: {
     eyebrow: "Sector Matrix",
-    title: "Each vertical is chosen to carry its own weight.",
+    title: "Each Vertical Is Chosen to Carry Its Own Weight.",
     description:
-      "The venture matrix below shows how BlackHawk Ventures can stretch across sectors while keeping a coherent operating identity.",
+      "The Venture Matrix below shows how BlackHawk Ventures can Stretch across Sectors while keeping a Coherent Operating Identity.",
   },
   strategy: [
     {
       eyebrow: "Selection Lens",
-      title: "Expansion is intentional, not opportunistic.",
+      title: "Expansion Is Intentional, Not Opportunistic.",
       description:
-        "BlackHawk Ventures is built to add sectors where the company can bring authority, not just participate. The umbrella grows through fit, leverage, and long-term relevance.",
+        "Black Hawk Ventures is Built to add Sectors where the Company can bring Authority not just Participate. The Umbrella Grows through Leverage and Long-Term Relevance.",
     },
     {
       eyebrow: "Brand Outcome",
-      title: "A stronger umbrella with every new line.",
+      title: "A Stronger Umbrella with Every New Line.",
       description:
-        "The end goal is a portfolio where real estate, technology, energy, food, and planning reinforce one another under a premium brand posture.",
+        "The End Goal is a Portfolio where Real-Estate, Technology, Energy, Food and Planning Re-Enforce One Another under a Premium Brand Posture.",
     },
   ],
 };

@@ -2,10 +2,10 @@ export const siteSettings = {
   name: "BlackHawk Ventures",
   tagline: "What Lasts, Leads.",
   description:
-    "BlackHawk Ventures is a premium venture umbrella rooted in real-estate development and expanding across food, petroleum and energy, technology, and commercial town planning.",
-  primaryFocus: "Real-estate developers with multi-sector ambition.",
+    "Black Hawk Ventures is a Premium Venture Umbrella rooted in Real-Estate development and expanding across Food, Petroleum and Energy, Technology, and Commercial Town Planning.",
+  primaryFocus: "Real-Estate Developers with Multi-Sector Ambition.",
   footerNote:
-    "Built as a premium venture house with real estate at its core and long-horizon expansion across strategic sectors.",
+    "Built as a Premium Venture House with Real-Estate at its Core and Long-Horizon Expansion across Strategic Sectors.",
 };
 
 export const brandAssets = {
@@ -27,75 +27,75 @@ export const primaryNavigation = [
 
 export const coreSectors = [
   {
-    slug: "real-estate-development",
+    slug: "Real-Estate-Development",
     index: "01",
     title: "Real-Estate Development",
     summary:
-      "The anchor business: land, communities, mixed-use assets, and destination developments with long-term commercial weight.",
+      "The Anchor Business: Land, Communities, Mixed-Use Assets and Destination Developments with Long-Term Commercial Weight.",
     detail:
-      "BlackHawk Ventures approaches real estate as its operating foundation, with focus on premium positioning, disciplined planning, and assets built to endure.",
+      "Black Hawk approaches Real-Estate as its Operating Foundation with Focus on Premium Positioning, Disciplined Planning and Assets Built to Endure.",
     focusAreas: [
-      "Residential communities",
-      "Mixed-use developments",
-      "Land strategy and plotting",
+      "Residential Communities",
+      "Mixed-Use Developments",
+      "Land Strategy and Plotting",
     ],
     featured: true,
   },
   {
-    slug: "food-ventures",
+    slug: "Food-Ventures",
     index: "02",
     title: "Food Ventures",
     summary:
-      "Consumer-facing brands and hospitality concepts designed for presence, loyalty, and scalable visibility.",
+      "Consumer-Facing Brands and Hospitality concepts designed for Presence, Loyalty and Scalable Visibility.",
     detail:
-      "Food sits inside the BlackHawk umbrella as a brand-forward sector where operational precision and customer experience matter equally.",
+      "Food sits inside the Black Hawk Umbrella as a Brand-forward sector where Operational precision and Customer Experience matter Equally.",
     focusAreas: [
-      "Hospitality concepts",
-      "Scalable food brands",
-      "Experience-led retail",
+      "Hospitality Concepts",
+      "Scalable Food Brands",
+      "Experience-Led Retail",
     ],
   },
   {
-    slug: "petroleum-and-energy",
+    slug: "Petroleum-and-Energy",
     index: "03",
     title: "Petroleum & Energy",
     summary:
-      "Strategic energy opportunities shaped around reliability, infrastructure logic, and long-horizon operating value.",
+      "Strategic Energy Opportunities shaped around Reliability, Infrastructure Logic and Long-Horizon Operating Value.",
     detail:
-      "The energy arm is positioned for ventures where infrastructure discipline, delivery confidence, and durable relevance create real leverage.",
+      "The Energy Arm is Positioned for Ventures where Infrastructure Discipline, Delivery Confidence and Durable Relevance create Real Leverage.",
     focusAreas: [
-      "Distribution models",
-      "Infrastructure-led growth",
-      "Operational resilience",
+      "Distribution Models",
+      "Infrastructure-Led Growth",
+      "Operational Resilience",
     ],
   },
   {
-    slug: "technology",
+    slug: "Technology",
     index: "04",
     title: "Technology",
     summary:
-      "Digital products and operational platforms that support how ventures, properties, and communities function at scale.",
+      "Digital Products and Operational platforms that support Ventures, Properties and Communities Functioning at Scale.",
     detail:
-      "Technology inside BlackHawk Ventures is not decorative. It is intended to strengthen operations, improve delivery, and open scalable new venture paths.",
+      "Technology inside Black Hawk Ventures is not Decorative. It is intended to Strengthen Operations, Improve Delivery and Open Scalable New Venture Paths.",
     focusAreas: [
-      "Operational platforms",
-      "Digital ventures",
-      "Smart systems for growth",
+      "Operational Platforms",
+      "Digital Ventures",
+      "Smart Systems for Growth",
     ],
     featured: true,
   },
   {
-    slug: "commercial-town-planning",
+    slug: "Commercial-Town-Planning",
     index: "05",
     title: "Commercial Town Planning",
     summary:
-      "Vision-led planning for commercial zones and ecosystems where infrastructure, movement, commerce, and utility align.",
+      "Vision-Led planning for Commercial Zones and Ecosystems where Infrastructure, Movement, Commerce and Utility Align.",
     detail:
-      "Town planning extends the real-estate foundation into broader commercial environments, enabling BlackHawk Ventures to shape districts, not just standalone assets.",
+      "Town Planning extends the Real-Estate foundation into broader Commercial Environments, Enabling Black Hawk Ventures to Shape Districts, not just Standalone Assets.",
     focusAreas: [
-      "Commercial districts",
-      "Planning frameworks",
-      "Integrated future-ready layouts",
+      "Commercial Districts",
+      "Planning Frameworks",
+      "Integrated Future-Ready Layouts",
     ],
     featured: true,
   },
@@ -106,42 +106,42 @@ export const brandPrinciples = [
     index: "01",
     title: "Premium Positioning",
     description:
-      "Every venture is expected to carry presence, clarity, and brand weight rather than blend into commodity execution.",
+      "Every Venture is expected to carry Presence, Clarity and Brand Weight rather than Blend into Commodity Execution.",
   },
   {
     index: "02",
     title: "Selective Expansion",
     description:
-      "The umbrella grows only where strategic fit, operational conviction, and durable value can coexist.",
+      "The Brand Umbrella grows only where Strategic Fit, Operational Conviction and Durable Value can Coexist.",
   },
   {
     index: "03",
     title: "Long-Horizon Thinking",
     description:
-      "Projects, sectors, and partnerships are evaluated through a lens of longevity instead of short-cycle activity.",
+      "Projects, Sectors and Partnerships are evaluated through a lens of Longevity instead of Short-Cycle Activity.",
   },
 ];
 
 export const operatingSteps = [
   {
-    title: "Acquire with intent",
+    title: "Acquire with Intent",
     description:
-      "BlackHawk Ventures enters opportunities where location, demand, and future relevance create meaningful strategic edge.",
+      "Black Hawk enters Opportunities where Location, Demand and Future Relevance create meaningful Strategic Edge.",
   },
   {
-    title: "Plan with ambition",
+    title: "Plan with Ambition",
     description:
-      "Concepts are shaped through premium design thinking, commercial logic, and a clear long-term use case.",
+      "Concepts are Shaped through Premium Design Thinking, Commercial Logic and a Clear Long-term use Case.",
   },
   {
-    title: "Develop with precision",
+    title: "Develop with Precision",
     description:
-      "Execution standards stay high whether the work is property-led, infrastructure-led, or venture-led.",
+      "Execution standards stay High whether the work is Property-Led, Infrastructure-Led or Venture-Led.",
   },
   {
-    title: "Operate for lasting value",
+    title: "Operate for Lasting Value",
     description:
-      "The goal is not short-lived activity. It is relevance, stature, and compounding value over time.",
+      "The Goal is not Short-lived Activity. It is Relevance, Stature and Compounding Value over Time.",
   },
 ];
 

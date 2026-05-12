@@ -3,67 +3,67 @@ import { contactDetails } from "@/content/site";
 export const contactContent = {
   hero: {
     eyebrow: "Contact",
-    title: "Start the conversation with BlackHawk Ventures.",
+    title: "Start the Conversation with BlackHawk Ventures.",
     description:
-      "Use the contact form to discuss development opportunities, strategic partnerships, future ventures, or general business inquiries.",
+      "Use the Contact Form to discuss Development Opportunities, Strategic Partnerships, Future Ventures or General Business Inquiries.",
     highlights: [
       {
         label: "Channel",
-        title: "Working inquiry form",
+        title: "Working Inquiry Form",
         description:
-          "Messages submitted here are processed by the site and stored locally for review.",
+          "Messages submitted here are processed by the Site and stored locally for Review.",
       },
       {
         label: "Use case",
-        title: "Partnership and development discussions",
+        title: "Partnership and Development Discussions",
         description:
-          "Suitable for land opportunities, commercial planning conversations, and multi-sector partnerships.",
+          "Suitable for Land Opportunities, Commercial Planning Conversations and Multi-Sector Partnerships.",
       },
       {
         label: "Next step",
-        title: "Structured follow-up",
+        title: "Structured Follow-Up",
         description:
-          "The form creates a clean intake path that can later be connected to email or CRM systems.",
+          "The Form creates a clean Intake Path that can later be connected to Email or CRM Systems.",
       },
       {
         label: "Direct line",
-        title: "Call or email directly",
+        title: "Call or Email Directly",
         description:
-          "Primary number, secondary number, and official contact email are now available on this page.",
+          "Primary Number, Secondary Number and Official Contact Email are now available on this Page.",
       },
     ],
   },
   formIntro: {
     eyebrow: "Inquiry Form",
-    title: "Send your inquiry directly from the site.",
+    title: "Send Your Inquiry Directly from the Site.",
     description:
-      "This form is fully wired through a Next.js API route. Submissions are validated and stored locally so the site is not just a visual placeholder.",
+      "This Form is fully wired through a Next.js API Route. Submissions are validated and stored locally so the Site is not just a visual placeholder.",
   },
   inquiryTypes: [
     {
       label: "Inquiry type",
       title: "Development opportunities",
       description:
-        "Reach out for land, plotting, mixed-use development, or commercial planning discussions.",
+        "Reach out for Land, Plotting, Mixed-Use Development or Commercial Planning Discussions.",
     },
     {
       label: "Inquiry type",
       title: "Strategic partnerships",
       description:
-        "Use the form for joint ventures, brand partnerships, and high-conviction sector collaborations.",
+        "Use the Form for Joint Ventures, Brand Partnerships and High-Conviction Sector Collaborations.",
     },
     {
       label: "Inquiry type",
       title: "General business inquiries",
       description:
-        "The contact system also supports broader communication alongside direct phone and email access.",
+        "The Contact System also supports broader Communication alongside direct Phone and Email Access.",
     },
   ],
   directContact: {
     label: "Direct Contact",
-    title: "Reach BlackHawk Ventures directly.",
+    title: "Reach BlackHawk Ventures Directly.",
     description:
-      "Use the contact form for structured inquiries, or connect directly using the numbers and email below.",
+      "Use the Contact Form for structured Inquiries, or connect directly using the Numbers and Email below.",
     items: [
       {
         label: "Primary Number",

@@ -7,7 +7,7 @@ import { coreSectors } from "@/content/site";
 export const metadata = {
   title: "Ventures | BlackHawk Ventures",
   description:
-    "See the venture sectors BlackHawk Ventures is building across real estate, food, petroleum and energy, technology, and town planning.",
+    "See the Venture Sectors BlackHawk Ventures is building across Real-Estate, Food, Petroleum and Energy, Technology and Town Planning.",
 };
 
 export default function VenturesPage() {
